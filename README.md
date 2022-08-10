@@ -7,3 +7,11 @@
 - The link for the javascript is:
 - The link for the HTML is:
 
+## Results
+
+- The UFO webpage (HTML file) will be used to filter the data presented in the table.
+- The webpage is coded to display multiple filters which users will want to use to display certain sightings that falls in a certain criteria.
+For example: To use the filters we will use the criteria ("1/13/2010","
+
+Date:
+
